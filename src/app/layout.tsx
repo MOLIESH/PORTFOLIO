@@ -16,9 +16,9 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title,
   description,
-  authors: [{ name: "Subash", url: "https://github.com/subashio" }],
+  authors: [{ name: "MOLIESH", url: "https://github.com/MOLIESH" }],
   keywords: [
-    "Subash Portfolio",
+    "MOLIESH Portfolio",
     "Full-Stack Developer",
     "Web Developer",
     "UI/UX Designer",
